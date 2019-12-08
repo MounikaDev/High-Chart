@@ -7,7 +7,7 @@
   
 # Next steps to follow
   ## Install the library
-     Navigate to highcharts-demo and in terminal run command  
+     Navigate to High-Charts and in terminal run command  
      "npm install"
   ## Run the json server 
      "npm run json-server"
