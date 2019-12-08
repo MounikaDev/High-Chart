@@ -1,3 +1,16 @@
+## Prerequisites
+To sucessfully build this project one should already installed
+i) Nodejs
+ii) AngularCli
+Next follow these steps
+iii) Clone the project from this repo using command   "git clone https://github.com/MounikaDev/High-Chart.git"
+iv) Navigate to highcharts-demo and in terminal run command  "npm install"
+v) Run the json server by using commans "npm run json-server"
+vi) Run the application by using command  "ng serve -o"  
+vii) It will automatically open the browser with address `http://localhost:4200/dashboard`
+viii) We can see running application now.
+
+
 # HighchartsDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
