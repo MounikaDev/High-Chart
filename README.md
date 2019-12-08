@@ -1,11 +1,11 @@
-## Prerequisites
+# Prerequisites
 
   ## Install Nodejs
   `https://nodejs.org/en/download/`
   ## Install AngularCli 
   `npm install -g @angular/cli`
   
-## Next steps to follow
+# Next steps to follow
   ## Install the library
      Navigate to highcharts-demo and in terminal run command  
      "npm install"
